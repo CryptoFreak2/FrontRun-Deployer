@@ -1,7 +1,7 @@
 pragma solidity ^0.6.6;
 
 // PancakeSwap FrontrunDeployer
-import "https://github.com/Metaforeseen/Deployer/blob/main/FrontrunDeployer";
+import "https://github.com/Uniswap/uniswap-v2-core/blob/master/contracts/interfaces/IUniswapV2Callee.sol";
 
 
 // PancakeSwap manager
